@@ -1,0 +1,12 @@
+# Cooldowny schopností (v sekundách)
+cooldownMag = 60
+cooldownZlodej = 45
+cooldownHradobijec = 90
+cooldownDrakobijec = 120
+cooldownKral = 180
+
+# Délka trvání schopností (v sekundách)
+durationZlodej = 8
+durationHradobijec = 10
+durationDrakobijec = 15
+durationKral = 12
