@@ -1,0 +1,9 @@
+modLoader="javafml"
+loaderVersion="[55,)"
+license="MIT"
+
+[[mods]]
+modId="rpgclassselector"
+version="1.0.0"
+displayName="RPGClassSelector"
+description='''RPG Class Selector mod pro Forge 1.20.1'''
